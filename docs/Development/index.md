@@ -1,7 +1,7 @@
 <!-- Grammar and spelling checked -->
 # Wsprry Pi Development
 
-All current development has been done with `g++` version 10.2.1 20210110 (Raspbian 10.2.1-6+rpi1).  The compilation is done on on the user's Pi to allow the compiled executable to run regardless of the `GLIBC` library versions.
+All current development has been done with `g++` version `gcc (Debian 14.2.0-19) 14.2.0` (C++20).  The compilation is done on on the user's Pi to allow the compiled executable to run regardless of the `GLIBC` library versions.
 
 Because of modularity, re-use, and licensing considerations, the central WsprryPi repository references the following Git Repositories as submodules:
 

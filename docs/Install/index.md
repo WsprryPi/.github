@@ -17,7 +17,7 @@ This section may be the most challenging part of the whole installation.  *You m
 
 ![Raspberry Pi Imager](rpi_imager.png)
 
-I am only testing the current `stable` and `oldstable` versions: Bookworm and Bullseye.
+I am only testing the current [`stable` versions](https://www.debian.org/releases/stable/).  Testing everything on more than one release, 32 and 64-bit, takes more time than I have right now.  In theory it will compile and run on [`oldstable`](https://www.debian.org/releases/oldstable/) but I won't support issues there.
 
 You can use a full-featured desktop version with all the bells and whistles, or Wsprry Pi will run just fine on the Lite version on an SD card as small as 2 GB (although a minimum of 8 GB seems more comfortable these days).  You can even run it headless without a keyboard, mouse, or monitor.  If you enable SSH, you can use your command line from Windows 10/11, macOS, or another Pi.
 
