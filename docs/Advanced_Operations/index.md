@@ -43,7 +43,7 @@ This is the default INI file that ships with the installation.  Any comments in 
 
 ```ini
 ; Created for WsprryPi version 2.0
-; Copyright (C) 2023-2025 Lee C. Bussy (@LBussy)
+; Copyright (C) 2023 - 2026 Lee C. Bussy (@LBussy)
 
 ; Edit the values below as needed.  Do not remove sections or keys.
 
