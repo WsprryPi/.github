@@ -66,9 +66,9 @@ The public-facing documentation for the WsprryPi organization lives in the [Wspr
 
 ## Organization README
 
-The primary documentation for the WsprryPi organization is maintained in:
+The primary README for the WsprryPi organization is maintained in:
 
-[/WsprryPi/.github/profile/README.md](./profile/README.md)
+[WsprryPi README](https://github.com/WsprryPi/.github/blob/main/profile/README.md)
 
 That file controls what appears on the organization’s GitHub landing page
 and should be referenced for project information, goals, and links.
