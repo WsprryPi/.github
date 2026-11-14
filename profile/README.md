@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Wsprry Pi
+# WsprryPi
 
 *A QRP WSPR transmitter leveraging a Raspberry Pi*, (pronounced: (Whispery Pi))
 
